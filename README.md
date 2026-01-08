@@ -1,6 +1,5 @@
-> Observação: os dados utilizados neste projeto são fictícios de estudo, com finalidade exclusivamente educacional e demonstrativa,
- O dashboard completo foi desenvolvido no Power BI Desktop.
- Prints foram utilizados devido à não publicação online do relatório. 
+> ### Os dados utilizados neste projeto são fictícios de estudo, com finalidade exclusivamente educacional e demonstrativa,
+
 
 ## Análise de Vendas e Faturamento Anual
 ### 1. Problema de Negócio
@@ -142,3 +141,9 @@ Com base nos resultados obtidos, os próximos passos recomendados são:
 Cruzar dados de vendas com informações de estoque e margem de lucro.
 
 Este projeto representa um passo importante rumo a uma cultura orientada a dados, onde decisões comerciais passam a ser guiadas por evidências e não apenas por intuição.
+
+### Observação: os dados utilizados neste projeto são fictícios de estudo, com finalidade exclusivamente educacional e demonstrativa,
+ O dashboard completo foi desenvolvido no Power BI Desktop.
+ Prints foram utilizados devido à não publicação online do relatório. 
+
+
