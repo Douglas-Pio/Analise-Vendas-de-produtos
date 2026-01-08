@@ -1,4 +1,9 @@
 ## Análise de Vendas e Faturamento Anual
+
+> Observação: os dados utilizados neste projeto são fictícios de estudo, com finalidade exclusivamente educacional e demonstrativa,
+ O dashboard completo foi desenvolvido no Power BI Desktop.
+ Prints foram utilizados devido à não publicação online do relatório.
+
 ### 1. Problema de Negócio
 
 - A empresa possui um grande volume de dados de vendas ao longo do ano, porém não consegue extrair informações claras sobre seu desempenho comercial.
